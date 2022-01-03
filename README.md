@@ -2,7 +2,7 @@
 Solver for Wordle game https://www.powerlanguage.co.uk/wordle/
 
 
-To solver for any specific 5 letter guess word and answer:
+To solve for any specific 5 letter guess word and answer:
 
 ```
 df = getWordsDF()
